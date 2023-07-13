@@ -1,0 +1,12 @@
+add_namespace = gps
+
+
+country_event = {
+	id = gps.1
+	title = gps.1.t
+	desc = gps.1.d
+	picture = GFX_report_event_gathering_protest
+	option = {
+		name = gps.2.a # название опции (a, b, c, d...) 
+	}
+}
