@@ -1,0 +1,4 @@
+DNN= {
+	color_ui = rgb { 64 64 200 }
+	color = rgb { 16 16 200 }
+}
