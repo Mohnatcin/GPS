@@ -1,1 +1,1 @@
-GPS = "countries/GPS.txt"
+﻿GPS = "countries/GPS.txt"

@@ -1,4 +1,4 @@
-GPS = {
+﻿GPS = {
 	male = {
 		names = { Lesich Roman Gavrick Egor Andreman Gloomy Kura Semenar
 		}
