@@ -168,8 +168,8 @@ set_politics = {
  
 
 create_country_leader = {
-    name = "Pepe Komunistov"
-    desc = "POLITICS_PEPE_KOMUNISTOV_DESC"
+    name = "Lesich"
+    desc = "POLITICS_LESICH_DESC"
     picture = "gfx/leaders/DNN/Portrait_Pepe_Komunistov.dds"
     expire = "2017.1.1"
     ideology = stalinism
@@ -190,9 +190,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-    name = "Pepe Neytralov"
+    name = "Roman"
     desc = "POLITICS_PEPE_NEYTRALOV_DESC"
-    picture = "gfx/leaders/DNN/Portrait_Pepe_Neytralov.dds"
+    picture = "gfx/leaders/DNN/Portrait_Roman.dds"
     expire = "2017.1.1"
     ideology = despotism
     traits = {
